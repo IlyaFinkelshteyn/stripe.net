@@ -5,6 +5,7 @@ function Invoke-Restore()
 	blankLines
 	
 	dotnet restore
+}
 
 function Invoke-Build
 {
